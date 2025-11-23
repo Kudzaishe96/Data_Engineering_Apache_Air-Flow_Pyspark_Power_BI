@@ -56,7 +56,11 @@ API :Chess.com
 3. Publish the report as a webbased report
 
 ## Power BI Report
-<img width="1563" height="673" alt="image" src="https://github.com/user-attachments/assets/eab47ff5-3341-49d5-b6af-bc314967fdb8" />
+<img width="1267" height="694" alt="image" src="https://github.com/user-attachments/assets/8382bd4e-5e42-4dbf-b826-b0fe8b0b4002" />
+
+###link
+https://app.powerbi.com/view?r=eyJrIjoiMjM4NzFkN2YtMGE2YS00ZGViLTkwNDEtYmY5ZDZkNmM5MTU1IiwidCI6Ijc1NTE5MmU4LTBiYTAtNDNkMS04NDBhLTBhYjliY2JiOWY4ZSJ9&pageName=5d292d54ae0275063819
+
 
 
  #  The End
